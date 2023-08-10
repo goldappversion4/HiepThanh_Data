@@ -1,0 +1,25 @@
+STT,Loại vàng,Màu xi,Số lượng,Sản phẩm,Trọng lượng (Ban đầu),Trọng lượng (Sau xi),Số món Thêm/bớt (Sau xi),Trọng lượng Tăng/giảm (Sau xi),Lý do Tăng/giảm (Sau xi),Chi phí (1000 VNĐ),Số món Thêm/bớt (Nhập hàng),Trọng lượng  Tăng/giảm (Nhập hàng),Lý do Tăng/giảm (Nhập hàng)
+1,416,Xi trắng,11,Lắc,17c162,17c144,-1.0,-1c5,Test sau xi,1200.0,-2.0,3c254,test nhập hàng
+2,416,Xi trắng,3,Vòng,5c456,5c438,-2 +1,- 3c12 +1c2 +1p2 -2p,Test sau xi,,+3 -2,+ 3c12  -1c2 ,Test nhập
+3,416,Xi trắng,18,Bông,7c928,7c798,,,,,,,
+4,416,Xi trắng,24,Nhẫn,19c342,19c074,,,,,,,
+5,416,Xi trắng,8,Mặt,3c646,3c63,,,,,-1.0,-3p88,hư
+6,416,Xi trắng,10,Dây,12c914,12c898,,-3li+3li2,,,,,
+7,610,Xi trắng,1,Dây,2c158,2c154,,,,,,,
+8,610,Xi 2-3 màu,1,Vòng,1c728,1c728,,,,,,,
+9,610,Xi 2-3 màu,1,Bông,3p34,3p34,,,,,,,
+10,610,Xi 2-3 màu,2,Mặt,2c892,2c888,,,,,,,
+11,610,Xi 2-3 màu,3,Nhẫn,7c224,7c218,,,,,,,
+12,610,Xi 2-3 màu,7,Lắc,13c848,13c822,,-8li8+8li2,(Thay khóa),5000.0,,,
+13,610,Xi trắng,1,Mặt,1c908,1c896,,,,,-1.0,-1c896,hư
+14,610,Xi 2-3 màu,5,Dây,15c126,15c078,,-2li ,(rẽo),2500.0,-1.0,-4c608,hư
+15,610,Xi trắng,1,Lắc,7p56,7p54,,,,,,,
+16,Ý,Xi hồng,2,Dây,1c216,1c208,,,,,,,
+17,Ý,Xi 2-3 màu,1,Vòng,6c628,6c622,,,,,,,
+18,Ý,Xi 2-3 màu,3,Mặt,4c048,4c034,,,,,,,
+19,Ý,Xi 2-3 màu,9,Dây,25c554,25c48,,,,,,,
+20,Ý,Xi trắng,1,Vòng,1c338,1c324,,,,,,,
+21,Ý,Xi trắng,16,Bông,8c878,8c77,,,,,,,
+22,Ý,Xi trắng,6,Mặt,5c44,5c412,,,,,,,
+23,Ý,Xi 2-3 màu,10,Nhẫn,17c048,16c916,,,,,,,
+24,Ý,Xi trắng,3,Lắc,5c498,5c472,,,,,-1.0,-6g61,

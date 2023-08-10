@@ -1,0 +1,5 @@
+STT,Tên tài khoản,Mật khẩu,Master/Admin,Ngày tạo,Tài khoản tạo,Máy tính,Chi Nhánh 1,Chi Nhánh 2,Chi Nhánh 3,Nhúng xút (nội bộ),Dữ liệu xi (nội bộ),Nhập hàng (nội bộ),Dữ liệu xi ngoài,Nhập hàng xi ngoài
+0,vunghixuan,5d85e293ae881fe565996d7e477d98abc614cf1240caa753b2ee30b67bbd2a99,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+1,Trần Nhật Cường,790e12165ae397efc8fc7a492076020217c84735d1159402b35663fdf16bc058,Yes,18-06-2023 20:02:54,Tự động,DesktopHome_MrVu,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+2,cn1_xiNgoai,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,-,19-06-2023 06:34:46,Trần Nhật Cường,DesktopHome_MrVu,Yes,-,-,-,-,-,Yes,Yes
+3,nhap,a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3,-,01-08-2023 08:36:42,Trần Nhật Cường,DesktopHome_MrVu,-,Yes,-,Yes,Yes,Yes,Yes,Yes
