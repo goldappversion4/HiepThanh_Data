@@ -1,6 +1,6 @@
 STT,Loại vàng,Số lượng,Sản phẩm,Tổng trọng lượng vàng+hột xuất,Tổng trọng lượng vàng xuất,Tiền công xuất (1000 VNĐ),Tổng trọng lượng vàng+hột xuất (thợ giao),Số lượng (thêm/ bớt),Tổng trọng lượng vàng+hột (thêm/ bớt),Trọng lượng vàng (thêm/ bớt),Lý do (thêm/ bớt),"Trọng lượng  (Thay khóa, phụ kiện,...)","Ghi chú  (Thay khóa, phụ kiện,...)",Tiền công còn lại (1000 VNĐ)
 1,610,8,Dây,29c628,29c538,4780.0,29c612,,,,,,,4780.0
-2,610,25,Lắc,114c446,113c506,19750.0,114c33,-5.0,19c694,19c694,hư hỏng,-4p8 +5p2,,19750.0
-3,Ý,163,Dây,260c461,203c706,,260c246,-11.0,22c784,16c296,hư hỏng,,,
-4,Ý,1,Dây,4g95,4g95,,4g95,,4g95,4g95,hư hỏng,,,
+2,610,25,Lắc,114c446,113c506,19750.0,114c33,-5.0,-19c694,-19c694,hư hỏng,-4p8 +5p2,,19750.0
+3,Ý,163,Dây,260c461,203c706,,260c246,-11.0,-22c784,-16c296,hư hỏng,,,
+4,Ý,1,Dây,4g95,4g95,,4g95,,-4g95,-4g95,hư hỏng,,,
 
